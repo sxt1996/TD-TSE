@@ -6,7 +6,7 @@ Target detection aims to locate targets of interest within a specific scene. The
 # Index Terms
 Hyperspectral image, target detection, binary trees, encoding.
 # Flowchart
-![FIG1](https://github.com/sxt1996/TD-TSE/assets/55687887/85580f55-0842-4473-90e1-b82cc51d4921)
+![flowchart](https://github.com/sxt1996/TD-TSE/assets/55687887/212e3989-a284-424a-9182-567023a44ce7)
 # Data Set
 AVIRIS-1: The data set was captured by the Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) over San Diego. The original image includes 224 spectral channels in the wavelength range of  370 to 2510 nm. We reserved 189 bands in the experiments, leaving out the water absorption bands and low SNR bands. The full image of the urban scene contains 400×400 pixels and the spatial resolution is 3.5m. The AVIRIS-1 used in our experiments is a sub-image with 100×100 pixels. And there are three airplanes regarded as targets occupying 22, 22, and 20 pixels respectively.
 # Guidelines
