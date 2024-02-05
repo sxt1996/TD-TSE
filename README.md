@@ -13,7 +13,7 @@ AVIRIS-1: The data set was captured by the Airborne Visible/Infrared Imaging Spe
 1. Install R2014a or higher versions of MATLAB
 2. Download this code package
 3. Set path
-4. Run Main.m
+4. Don't worry about importing data or anything else, just run Main.m
 # Contact
 If you have any questions, please feel free to contact me.
 sxt1996@outlook.com
